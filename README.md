@@ -50,3 +50,6 @@ https://etherscan.io/address/0x74814602062af64fd7a83155645ddb265598220e#code
 1. Originality
 1. Practicality
 1. WOW Factor
+
+©2018 Quantstamp, Inc.  All rights reserved. 
+DISCLAIMER:  This content is provided for informational, personal, non-commercial purposes on an as-is, where-is, and as-available basis. By using this content, you agree that your access and/or use, including but not limited to any associated services, products, protocols, platforms, content, and materials, will be at your sole risk. This content may include descriptions or forward-looking statements concerning concepts under continuing development in testing environments, along with features, functionality, schedules, or design architectures under continuing development, but all of the foregoing are subject to continuing update, modification, cancellation, delay, external dependencies, evolving regulatory frameworks, and/or factors beyond our control and you are cautioned not to place undue reliance on this information. This content shall not be used, copied, modified, redistributed or otherwise disseminated except to the extent expressly permitted by Quantstamp.  FOR AVOIDANCE OF DOUBT, THIS CONTENT, INCLUDING ANY ASSOCIATED SERVICES OR MATERIALS, SHALL NOT BE CONSIDERED OR RELIED UPON AS ANY FORM OF FINANCIAL, INVESTMENT, TAX, LEGAL, REGULATORY, OR OTHER ADVICE.
